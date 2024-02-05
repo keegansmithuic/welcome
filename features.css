@@ -10,11 +10,11 @@ body {
 }
 
 .left-side {
-  padding: 20px;
+  padding: 2.0vw;
 }
 
 .right-side {
-  padding: 20px;
+  padding: 2.0vw;
 }
 
 h1 {
@@ -22,25 +22,27 @@ h1 {
 	outline-color: black;
 	font-family: Helvetica, "Times New Roman", Arial;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 5.0vw;
 }
 
 h2 {
 	color: white;
 	font-family: Helvetica, "Times New Roman", Arial;
-	font-size: 30px;
+	font-size: 3.0vw;
 }
 
 p {
 	color:white;
 	font-family: Helvetica, "Times New Roman", Arial;
-	font-size: 18px;
+	font-size: 1.8vw;
 }
 
 li {
 	color:white;
+	font-size: 1.4vw;
 }
 
 a {
 	color:white;
+	font-size: 1.4vw;
 }
