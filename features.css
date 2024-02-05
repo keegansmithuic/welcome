@@ -1,0 +1,46 @@
+body {
+	background-image: url('background.jpg');
+	background-size: cover;
+
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.left-side {
+  padding: 20px;
+}
+
+.right-side {
+  padding: 20px;
+}
+
+h1 {
+	color: white;
+	outline-color: black;
+	font-family: Helvetica, "Times New Roman", Arial;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+h2 {
+	color: white;
+	font-family: Helvetica, "Times New Roman", Arial;
+	font-size: 30px;
+}
+
+p {
+	color:white;
+	font-family: Helvetica, "Times New Roman", Arial;
+	font-size: 18px;
+}
+
+li {
+	color:white;
+}
+
+a {
+	color:white;
+}
